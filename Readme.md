@@ -1,5 +1,7 @@
 Made a own pcb from the Kiwi Protecvt v2 see site: https://kiwisdr.nz
 
+It can protect youre Rx to lightning and Tx on the sdr.
+
 Front:
 
 ![Photo 01](https://github.com/RSZ-Nld/Protect-Rx/blob/main/Front.JPG)
