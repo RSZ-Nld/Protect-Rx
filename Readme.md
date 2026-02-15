@@ -1,4 +1,4 @@
-Made a own pcb with si4735 and TTGO-1.9 Inch esp32s3.
+Made a own pcb from the Kiwi Protecvt v2 see site: https://kiwisdr.nz
 
 
 ![Photo 01](https://github.com/RSZ-Nld/Protect-Rx/blob/main/Front.JPG)
