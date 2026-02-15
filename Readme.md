@@ -8,6 +8,10 @@ Back:
 
 ![Photo 19](https://github.com/RSZ-Nld/Protect-Rx/blob/main/Back.JPG) 
 
+Diagram:
+
+![Photo 1](https://github.com/RSZ-Nld/Protect-Rx/blob/main/diagram.png)
+
 
 Gerber files:
 
