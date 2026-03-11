@@ -4,6 +4,10 @@ https://kiwisdr.nz/products/sdr-protection-circuit-v2
 
 It can protect youre Rx to lightning and Tx on the sdr it say on the Kiwi website.
 
+Own pcb:
+
+![Photo 00](https://github.com/RSZ-Nld/Protect-Rx/blob/main/1.jpg)
+
 Front:
 
 ![Photo 01](https://github.com/RSZ-Nld/Protect-Rx/blob/main/Front.JPG)
